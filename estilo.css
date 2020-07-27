@@ -1,0 +1,81 @@
+h1{
+     color: #60c7e0;
+     font-size: 40px;
+      
+}
+p{
+    background-color: rgb(5, 197, 85);
+}
+.caixa1{
+    border:4px rgb(105, 189, 228) solid;
+    padding-left: 450px;
+    margin:40px
+}
+
+
+
+
+
+.citação{
+    background-color: yellow;
+    font-size: 35px;
+    
+}
+.texto{
+    background-color: rgb(172, 190, 190);
+    font-size: 23px;
+}   
+h2{
+     color:rgb(74, 183, 211);
+     font-size: 40px;
+}
+.caixa2{
+    border:4px rgb(105, 189, 228) solid;
+  
+    margin:40px
+    
+}
+ .citação{
+    background-color:white;
+    font-size: 35px;
+ }
+.texto{
+background-color: white;
+font-size: 23px;
+}
+h3{
+    color:rgb(74, 183, 211);
+    font-size: 40px;
+}
+.caixa3{
+    border:4px rgb(105, 189, 228) solid;
+    padding-left: 450px;
+    margin:40px
+}
+.texto{
+        background-color:white;
+        font-size:23px;
+}
+p{
+    background-color: white;
+    font-size: 35px;
+}
+h4{
+    color:green;
+    font-size: 40px;
+}
+.caixa4{
+        border:4px rgb(105, 189, 228)  solid;
+        padding-left: 600px;
+        margin:40px
+}
+.texto{
+    background-color:white;
+    font-size:23px;
+}
+
+
+
+    
+
+    
